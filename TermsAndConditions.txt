@@ -1,0 +1,15 @@
+#=======================================================================================================================#
+#                                            Skript Theme Light  - Notepad++                                            #
+#                                                 Created by MCLaraTeam                                                 #
+#																														#
+#                                                  Terms and Conditions                                                 #
+#                    You are not allowed to redistribute, resell, modify or decompile this resource.                    #
+#                           We are not obligated to the correct functioning of this resource.                           #
+#                               We are not obligated to update or maintenance this addon.                               #
+#                                We are not obligated to offer support of this resource.                                #
+#                                           This resource cannot be refunded.                                           #
+#																														#
+#                                If you need any type of support, you can request it at:                                #
+#                                                  MCLarateam.com/wiki                                                  #
+#                                                 MCLarateam.com/discord                                                #
+#=======================================================================================================================#
